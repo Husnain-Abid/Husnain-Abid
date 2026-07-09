@@ -5,7 +5,7 @@
 My go-to stack is the MERN Stack with TypeScript, building scalable, responsive, and user-friendly web applications. I have worked on SaaS platforms, AI-powered applications, and real estate solutions, focusing on clean architecture, maintainable code, and great user experiences.
 
 - 🖥️ See my portfolio at **https://husnain-protfolio.netlify.app/**
-- 💼 Connect with me on **LinkedIn**
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/myself-husnainabid/)**
 - 📫 Reach me at **husnainabid066@gmail.com**
 - 💼 Currently open to **Full-Time MERN Developer Opportunities**
 - 🌱 Currently learning **DevOps, AWS & System Design**
