@@ -4,9 +4,9 @@
 
 My go-to stack is the MERN Stack with TypeScript, building scalable, responsive, and user-friendly web applications. I have worked on SaaS platforms, AI-powered applications, and real estate solutions, focusing on clean architecture, maintainable code, and great user experiences.
 
-- 🖥️ See my portfolio at **[Portfolio](https://husnain-protfolio.netlify.app/)**
+- 🖥️ See my **[Portfolio](https://husnain-protfolio.netlify.app/)**
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/myself-husnainabid/)**
-- 📫 Reach me at **[contact@husnainabid](husnainabid066@gmail.com**
+- 📫 Reach me at **[contact@husnainabid](husnainabid066@gmail.com)**
 - 💼 Currently open to **Full-Time MERN Developer Opportunities**
 - 🌱 Currently learning **DevOps, AWS & System Design**
 - ⚡ Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, TypeScript, and Full Stack Development**
@@ -35,5 +35,5 @@ My go-to stack is the MERN Stack with TypeScript, building scalable, responsive,
 ## 💻 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redux,tailwind,bootstrap,firebase,docker,git,github,postman,vscode,figma,npm,vite&perline=10" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redux,tailwind,bootstrap,firebase,docker,git,github,postman,vscode,figma,npm,vite&perline=22" height="80" />
 </p>
